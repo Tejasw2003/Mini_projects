@@ -1,4 +1,8 @@
-# Student Result Management (Student Version)
+# Student Result Management (Student Version) - Team 06
+1.Student 1 - Tejaswi
+2.Student 2 - Hushna
+3.Student 3 - Nisha
+
 
 student\_result\_system/
 │── main.py          # Entry point (menu-driven interface)
